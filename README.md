@@ -5,4 +5,4 @@ Dependencies:
   * Inkscape
   * pstoedit
 
-More information: http://wemakthings.net/2015/06/19/parabol-laptop-stand/
+More information: http://wemakethings.net/2015/06/19/parabol-laptop-stand/
